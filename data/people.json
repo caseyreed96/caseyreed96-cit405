@@ -1,0 +1,925 @@
+{
+  "members": [{
+      "name": "Brian Thoms",
+      "github_name": "bpthoms",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 5
+        },
+        {
+          "language": "javascript",
+          "experience": 5
+        },
+        {
+          "language": "php",
+          "experience": 5
+        },
+        {
+          "language": "python",
+          "experience": 5
+        },
+        {
+          "language": "sql",
+          "experience": 5
+        },
+        {
+          "language": "swift",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "NYT",
+      "hobbies": ["surfing", "software"],
+      "something_interesting": "I got married this year on a boat and swam with humpback whales in tahiti on my honeymoon."
+    },
+    {
+      "name": "Professor Thoms",
+      "github_name": "brianthoms",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 5
+        },
+        {
+          "language": "javascript",
+          "experience": 5
+        },
+        {
+          "language": "php",
+          "experience": 5
+        },
+        {
+          "language": "python",
+          "experience": 5
+        },
+        {
+          "language": "sql",
+          "experience": 5
+        },
+        {
+          "language": "swift",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "SocialXYZ",
+      "hobbies": ["coding", "teaching"],
+      "something_interesting": "I've been at CI since 2014 and love every minute of it. Time sure flies. "
+    },
+    {
+      "name": "Mario Moreno",
+      "github_name": "mmoreno85",
+      "major": "Information Technology",
+      "languages": [{
+          "language": "c"
+        },
+        {
+          "language": "python"
+        },
+        {
+          "language": "html"
+        },
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "Instagram",
+      "hobbies": "run and play soccer",
+      "something_interesting": "I am a coach and referee soccer for travel team(s). I have been playing soccer since I was five years old."
+    },
+    {
+      "name": "Alexandra Credico",
+      "github_name": "alexandracredico040",
+      "major": "Information Technology",
+      "languages": [{
+          "language": "python",
+          "experience": 5
+        },
+        {
+          "language": "C",
+          "experience": 3
+        },
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "YouTube",
+      "hobbies": ["listening to music", "cooking"],
+      "something_interesting": "I have been in college since 2013.",
+      "something_interesting": "I have three Associate degrees: Information Technology AS, Cyber Security AS, and Business Management.",
+      "something_interesting": "I am at CSUCI for a Bachelor's degree on Information Technology. I plan to graduate in Spring 2022."
+    },
+
+    {
+      "name": "Jackson Niles",
+      "github_name": "J-Niles",
+      "major": "Information Technology",
+      "languages": [{
+          "language": "python",
+          "experience": 1
+        },
+        {
+          "language": "c++",
+          "experience": 1
+        },
+      ],
+      "preferred_mobile_os": "IOS",
+      "favorite_mobile_app": "Snapchat",
+      "hobbies": ["baseball", "video games"],
+      "something_interesting": "I know the first 30 digits of pi"
+    },
+    {
+      "name": "Joshua Gottlieb",
+      "github_name": "bombg",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 3
+        },
+        {
+          "language": "C#",
+          "experience": 2
+        },
+        {
+          "language": "kotlin",
+          "experience": 2
+        },
+        {
+          "language": "python",
+          "experience": 2
+        },
+        {
+          "language": "c",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "tasker",
+      "hobbies": ["astronomy", "software", "dance/yoga"],
+      "something_interesting": "I've driven across the US multiple times, although not all at once!"
+    },
+    {
+      "name": "Brian Andasol",
+      "github_name": "bandasol",
+      "major": "Information Technology",
+      "languages": [{
+          "language": "C",
+          "experience": 3
+        },
+        {
+          "language": "Swift",
+          "experience": 1
+        },
+        {
+          "language": "python",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "IOS",
+      "favorite_mobile_app": "Reddit",
+      "hobbies": ["Photography", "video games", "Camping"],
+      "something_interesting": "This Winter break I ended up getting my motorcycle license and im excited to riding on my new bike!"
+
+    },
+    {
+      "name": "Thom Escobar",
+      "github_name": "Thom-Escobar",
+      "major": "information technology",
+      "languages": [{
+          "language": "java",
+          "experience": 3
+        },
+        {
+          "language": "javascript",
+          "experience": 3
+        },
+        {
+          "language": "php",
+          "experience": 2
+        },
+        {
+          "language": "python",
+          "experience": 2
+        },
+        {
+          "language": "sql",
+          "experience": 2
+        },
+        {
+          "language": "swift",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "iphone",
+      "favorite_mobile_app": "instagram",
+      "hobbies": ["gaming", "working"],
+      "something_interesting": "I built my first pc during this pandemic."
+    },
+    {
+      "name": "Peter Rosete ",
+      "github_name": "Peter-Rosete",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 2
+        },
+        {
+          "language": "C",
+          "experience": 2
+        },
+        {
+          "language": "HTML",
+          "experience": 1
+        },
+        {
+          "language": "CSS",
+          "experience": 1
+        },
+        {
+          "language": "python",
+          "experience": 1
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "Discord",
+      "hobbies": ["working out", "hiking", "reading", "gaming"],
+      "something_interesting": "I was 245 pounds when I was 18 and in two years I lost 90 pounds and my all time low was 155 pounds, and now i have been trying to build muscleand am 190 pounds."
+    },
+    {
+      "name": "Roque Garcia",
+      "github_name": "Roqueg",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 2
+        },
+        {
+          "language": "javascript",
+          "experience": 0
+        },
+        {
+          "language": "php",
+          "experience": 0
+        },
+        {
+          "language": "python",
+          "experience": 0
+        },
+        {
+          "language": "sql",
+          "experience": 0
+        },
+        {
+          "language": "swift",
+          "experience": 0
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "none",
+      "hobbies": ["collecting and playing magic the gathering cards", ],
+      "something_interesting": "I can fold my tounge into a clover. "
+    },
+
+    {
+      "name": "Juan Flores",
+      "github_name": "FloresJ90",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 3
+        },
+        {
+          "language": "c",
+          "experience": 2
+        },
+        {
+          "language": "python",
+          "experience": 1
+        },
+        {
+          "language": "html",
+          "experience": 1
+        }
+      ],
+      "preferred_mobile_os": "iOS",
+      "favorite_mobile_app": "Twitter",
+      "hobbies": ["coding", "playing video games", "cooking"],
+      "something_interesting": "My favorite game is Path of Exile"
+    },
+    {
+      "name": "Adam Hesse",
+      "github_name": "achesse",
+      "major": "information technology",
+      "languages": [{
+          "language": "java",
+          "experience": 0
+        },
+        {
+          "language": "javascript",
+          "experience": 0
+        },
+        {
+          "language": "php",
+          "experience": 0
+        },
+        {
+          "language": "python",
+          "experience": 2
+        },
+        {
+          "language": "sql",
+          "experience": 0
+        },
+        {
+          "language": "swift",
+          "experience": 0
+        }
+      ],
+      "preferred_mobile_os": "iOS",
+      "favorite_mobile_app": "YouTube",
+      "hobbies": ["reading", "gaming"],
+      "something_interesting": "I am a part-time digital artist."
+    },
+    {
+      "name": "Truong Luong",
+      "github_name": "Tronomicon",
+      "major": "Computer Science",
+      "languages": [{
+          "language": "java",
+          "experience": 4
+        },
+        {
+          "language": "c",
+          "experience": 3
+        },
+        {
+          "language": "python",
+          "experience": 2
+        },
+        {
+          "language": "html",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "Apollo",
+      "hobbies": ["gaming", "cooking", "EDM music"],
+      "something_interesting": "I've worked in three different Vietnamese restaurants."
+    },
+    {
+      "name": "Mark Aspuria",
+      "github_name": "aspmk2",
+      "major": "information technology",
+      "languages": [{
+          "language": "java",
+          "experience": 1
+        },
+        {
+          "language": "javascript",
+          "experience": 1
+        },
+        {
+          "language": "hyml",
+          "experience": 1
+        },
+        {
+          "language": "python",
+          "experience": 1
+        },
+        {
+          "language": "c",
+          "experience": 1
+        },
+        {
+          "language": "c++",
+          "experience": 1
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "Azur Lane",
+      "hobbies": ["video games", "anime", "manga"],
+      "something_interesting": "I originally was a computer science major, but I decided to pursue information technology instead."
+    },
+    {
+      "name": "Yarelit Mendoza",
+      "github_name": "Ninteneko",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 5
+        },
+        {
+          "language": "C",
+          "experience": 4
+        },
+        {
+          "language": "python",
+          "experience": 1
+        },
+        {
+          "language": "html",
+          "experience": 3
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "lezhin",
+      "hobbies": ["Water coloring", "CSS Art", "Video Games"],
+      "something_interesting": "I used to have an opposum as a pet."
+    },
+    {
+      "name": "Giovanni Toledo",
+      "github_name": "GiovanniToledo1",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 5
+        },
+        {
+          "language": "javascript",
+          "experience": 5
+        },
+        {
+          "language": "php",
+          "experience": 3
+        },
+        {
+          "language": "python",
+          "experience": 3
+        },
+        {
+          "language": "sql",
+          "experience": 0
+        },
+        {
+          "language": "swift",
+          "experience": 0
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "MyCI",
+      "hobbies": ["gaming", "researching latest gadgets"],
+      "something_interesting": "I had two of my family members get covid 19, they had cold like symptoms and got better."
+    },
+    {
+      "name": "William Salas",
+      "github_name": "williamsalas",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 4
+        },
+        {
+          "language": "javascript",
+          "experience": 2
+        },
+        {
+          "language": "c",
+          "experience": 3
+        },
+        {
+          "language": "python",
+          "experience": 3
+        }
+      ],
+      "preferred_mobile_os": "iOS",
+      "favorite_mobile_app": "Robinhood",
+      "hobbies": ["exercise", "programming", "youtube", "podcasts", "video games"],
+      "something_interesting": "I went to community college for around 5 years before I changed majors to computer science. My cat, Zero, has a green eye and a blue eye."
+    },
+    {
+      "name": "Nicholas Bergendahl",
+      "github_name": "nbergendahl",
+      "major": "Information Technology",
+      "languages": [{
+          "language": "Bash",
+          "experience": 0.5
+        },
+        {
+          "language": "PowerShell",
+          "experience": 0.25
+        },
+        {
+          "language": "C",
+          "experience": 0.5
+        },
+        {
+          "language": "SQL",
+          "experience": 0.5
+        },
+        {
+          "language": "Java",
+          "experience": 0.5
+        }
+      ],
+      "preferred_mobile_os": "iOS",
+      "favorite_mobile_app": "Chess",
+      "hobbies": ["Cooking", "Studying for OSCP"],
+      "something_interesting": "I used to work on campus at CI as a student assistant."
+    },
+    {
+      "name": "Elijah James Clark",
+      "github_name": "DarkN1ght9252",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 5
+        },
+        {
+          "language": "C++",
+          "experience": 5
+        },
+        {
+          "language": "python",
+          "experience": 4
+        },
+        {
+          "language": "sql",
+          "experience": 2
+        },
+        {
+          "language": "C",
+          "experience": 4
+        }
+      ],
+      "preferred_mobile_os": "IOS",
+      "favorite_mobile_app": "REDDIT",
+      "hobbies": ["Gaming", "Tech", "RetroHardware"],
+      "something_interesting": " Ive been modding retro nintendo systems as hobby projects that had helped learn to solder"
+    },
+    {
+      "name": "Josh Lloyd",
+      "github_name": "PwshJosh",
+      "major": "Information Technology",
+      "languages": [{
+          "language": "java",
+          "experience": 5
+        },
+        {
+          "language": "powershell",
+          "experience": 5
+        },
+        {
+          "language": "bash",
+          "experience": 3
+        },
+        {
+          "language": "python",
+          "experience": 3
+        },
+        {
+          "language": "sql",
+          "experience": 3
+        },
+        {
+          "language": "c",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "iOS",
+      "favorite_mobile_app": "Spotify",
+      "hobbies": ["music", "camping"],
+      "something_interesting": "I am currently learning how to play Irish traditional music"
+    },
+
+    {
+      "name": "Francisco Roque",
+      "github_name": "frankroque",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 2
+        },
+        {
+          "language": "c",
+          "experience": 2
+        },
+        {
+          "language": "python",
+          "experience": 2
+        },
+        {
+          "language": "sql",
+          "experience": 2
+        },
+        {
+          "language": "swift",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "iOS",
+      "favorite_mobile_app": "HBO max",
+      "hobbies": ["coding", "reading/learning"],
+      "something_interesting": "I am the first to go to college in my family and I work full time at 40 hours a week. "
+    },
+    {
+      "name": "Joshua Gottlieb",
+      "github_name": "bombg",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 3
+        },
+        {
+          "language": "C#",
+          "experience": 2
+        },
+        {
+          "language": "kotlin",
+          "experience": 2
+        },
+        {
+          "language": "python",
+          "experience": 2
+        },
+        {
+          "language": "c",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "tasker",
+      "hobbies": ["astronomy", "software", "dance/yoga"],
+      "something_interesting": "I've driven across the US multiple times, although not all at once!"
+    },
+    {
+      "name": "Jose Cahue",
+      "github_name": "cahue129",
+      "major": "computer science",
+      "languages": [{
+          "language": "c",
+          "experience": 5
+        },
+        {
+          "language": "c++",
+          "experience": 4
+        },
+        {
+          "language": "java",
+          "experience": 2.7
+        },
+        {
+          "language": "JavaScript",
+          "experience": 2.6
+        },
+        {
+          "language": "python",
+          "experience": 2.5
+        },
+        {
+          "language": "swift",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "ios",
+      "favorite_mobile_app": "Notability",
+      "hobbies": ["basketball", "software", "Gardening"],
+      "something_interesting": "Im currently a SMART scholar with the NAVY and DOD."
+    },
+    {
+      "name": "John Demirci",
+      "github_name": "JohnDemirci",
+      "major": "Computer Science",
+      "languages": [{
+          "language": "Swift",
+          "experience": 5
+        },
+        {
+          "language": "C",
+          "experience": 5
+        },
+        {
+          "language": "Java",
+          "experience": 4
+        },
+        {
+          "language": "python",
+          "experience": 4
+        },
+        {
+          "language": "sql",
+          "experience": 4
+        },
+        {
+          "language": "c++",
+          "experience": 3
+        }
+      ],
+      "preferred_mobile_os": "iOS",
+      "favorite_mobile_app": "TikTok",
+      "hobbies": ["coding", "soccer", "podcasts"],
+      "something_interesting": "I have a pretty good character judgement"
+    },
+    {
+      "name": "Neil Marcellini",
+      "github_name": "neil-marcellini",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 2
+        },
+        {
+          "language": "javascript",
+          "experience": 1
+        },
+        {
+          "language": "C",
+          "experience": 2
+        },
+        {
+          "language": "python",
+          "experience": 3
+        },
+        {
+          "language": "sql",
+          "experience": 0.5
+        },
+        {
+          "language": "swift",
+          "experience": 1
+        }
+      ],
+      "preferred_mobile_os": "IOS",
+      "favorite_mobile_app": "DJI Fly",
+      "hobbies": ["kitefoiling", "sailing", "camping", "hiking"],
+      "something_interesting": "I can ride a unicycle, and I have a 6ft tall one as well!"
+    },
+    {
+      "name": "Rene Escamilla",
+      "github_name": "renescamen",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 4
+        },
+        {
+          "language": "c",
+          "experience": 3
+        },
+        {
+          "language": "javascript",
+          "experience": 3
+        },
+        {
+          "language": "python",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "YouTube",
+      "hobbies": ["playing music", "gaming", "coding", "watching movies/shows"],
+      "something_interesting": "I started to learn how to play the saxophone."
+    },
+    {
+      "name": "Arec Colon-Aldeguer",
+      "github_name": "arec-colon-aldeguer",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 4
+        },
+        {
+          "language": "javascript",
+          "experience": 3
+        },
+        {
+          "language": "php",
+          "experience": 0
+        },
+        {
+          "language": "python",
+          "experience": 3
+        },
+        {
+          "language": "sql",
+          "experience": 0
+        },
+        {
+          "language": "swift",
+          "experience": 0
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "Weather app",
+      "hobbies": ["bodyboarding", "learning"],
+      "something_interesting": "I joined the Navy in 2008"
+    },
+    {
+      "name": "Travis Chamness",
+      "github_name": "TravisChamness1994",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 5
+        },
+        {
+          "language": "c",
+          "experience": 7
+        },
+        {
+          "language": "c++",
+          "experience": 4
+        },
+        {
+          "language": "python",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "android",
+      "favorite_mobile_app": "Notability",
+      "hobies": ["hiking", "surfing", "skateboarding", "coding", "cooking"],
+      "something_interesting": "My dad is retiring to Mexico!"
+    },
+    {
+      "name": "Jeffrey Romero",
+      "github_name": "jeff-romero",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 2
+        },
+        {
+          "language": "c",
+          "experience": 2
+        },
+        {
+          "language": "python",
+          "experience": 1
+        },
+        {
+          "language": "swift",
+          "experience": 0.4
+        }
+      ],
+      "preferred_mobile_os": "ios",
+      "favorite_mobile_app": "reddit",
+      "hobbies": ["coding", "video games", "watching movies", "logic puzzles"],
+      "something_interesting": "I just turned 22 this January."
+    },
+    {
+      "name": "Deanne Pamela Antonio",
+      "github_name": "PamAntonio",
+      "major": "computer science",
+      "languages": [{
+          "language": "java",
+          "experience": 3
+        },
+        {
+          "language": "javascript",
+          "experience": 3
+        },
+        {
+          "language": "C",
+          "experience": 1
+        },
+        {
+          "language": "python",
+          "experience": 5
+        },
+        {
+          "language": "C++",
+          "experience": 2
+        }
+      ],
+      "preferred_mobile_os": "iOS",
+      "favorite_mobile_app": "Call of Duty Mobile",
+      "hobbies": ["watching movies", "travel", "playing with my pup", "teaching", "drawing", "playing instruments"],
+      "something_interesting": "I moved to America from the Philippines in 2014"
+    },
+    {
+      "name": "Michael Nguyen",
+      "github_name": "michaeln",
+      "major": "information technology",
+      "languages": [{
+          "language": "java",
+          "experience": 4
+        },
+        {
+          "language": "php",
+          "experience": 5
+        },
+        {
+          "language": "python",
+          "experience": 5
+        },
+        {
+          "language": "UNIX",
+          "experience": 4
+        },
+        {
+          "language": "HTML",
+          "experience": 5
+        },
+        {
+          "language": "C++",
+          "experience": 5
+        },
+        {
+          "language": "C",
+          "experience": 5
+        }
+      ],
+      "preferred_mobile_os": "iOS",
+      "favorite_mobile_app": "Call of Duty Mobile",
+      "hobbies": ["drawing", "playing video games", "watching anime"],
+      "something_interesting": "I used to live in Ridgecrest, which is up north in California where I grew up with my family. On October 2017, my parents and I moved out of Ridgecrest to live in Camarillo."
+    }
+
+  ]
+}
